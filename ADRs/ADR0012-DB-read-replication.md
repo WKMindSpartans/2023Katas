@@ -7,7 +7,7 @@ Road Warrior will make use of DB Read Replication
 
 ## Status
 
-APPROVED
+Accepted
 
 ## Context
 
