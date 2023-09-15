@@ -9,7 +9,7 @@ Hosting Road Warrior on Azure Cloud with Cosmos DB
 Accepted
 
 ## Context 
-This refers to ADR02 and ADR03
+Please also refer to [ADR02](https://github.com/WKMindSpartans/2023Katas/blob/main/ADRs/ADR002-Platform%20.md) and [ADR03](https://github.com/WKMindSpartans/2023Katas/blob/main/ADRs/ADR003-Storage.md)
 - Azure is a leading cloud provider known for its robust infrastructure and wide range of services. 
 - Cosmos DB is a globally distributed, multi-model database service provided by Azure. 
 - Hosting Road Warrior on Azure with Cosmos DB will leverage its scalability, reliability, and integration capabilities. 
