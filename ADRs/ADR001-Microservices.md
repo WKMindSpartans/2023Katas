@@ -1,8 +1,12 @@
-# Road Warrior will use a microservices architecture
+# Architectural Decision Record
+## Date
+9/13/23 
+
+## Title
+Road Warrior will use a microservices architecture
 
 ## Status
-
-APPROVED
+Accepted
 
 ## Context
 
@@ -11,7 +15,7 @@ The Road Warrior App requires several different components including frontend, s
 
 ## Decision
 
-* We will use a microservces architecture style.
+We will use a microservces architecture style.
 
 
 ## Consequences
