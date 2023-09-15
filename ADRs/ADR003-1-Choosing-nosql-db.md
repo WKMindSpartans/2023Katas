@@ -1,5 +1,9 @@
-# Choosing the right NoSQL DB
-Date: 2024-09-15
+# Architectural Decision Record
+## Date
+9/13/23 
+
+## Title
+Choosing the right NoSQL DB
 
 ## Status
 Accepted
