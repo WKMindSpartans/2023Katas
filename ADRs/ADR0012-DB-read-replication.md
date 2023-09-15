@@ -1,4 +1,9 @@
-# Road Warrior will make use of DB Read Replication
+# Architectural Decision Record
+## Date
+9/13/23 
+
+## Title
+Road Warrior will make use of DB Read Replication
 
 ## Status
 
